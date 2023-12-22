@@ -1,16 +1,25 @@
-# bmi_app
+# MOBILE DEVELOPMENT WITH FLUTTER GROUP 10
 
-A new Flutter project.
+GROUP MEMBERS
+GODWIN D JOHN.  26961/T 2021
+NAIMA YOYO.  26993/T 2021
+MICHAEL S MTAMBO. 26989/T.2021
+ANGELINA WILSON MTUI.  26932/T.2021
 
-## Getting Started
+## Project Target
 
-This project is a starting point for a Flutter application.
+- To develop a mobile application using flutter framework
 
-A few resources to get you started if this is your first Flutter project:
+## Project Tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Learning Dart Programming Language
+- Practicind Dart questions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## TASK O1 : AREA CIRCLE CALCULATOR APP
+## TASK 02 : BMI CALCULATOR 
+
+
+
+
